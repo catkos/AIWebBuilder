@@ -22,8 +22,9 @@
 
 **Project backend Github repository**
 
-[https://github.com/Velimah/mediaprojekti-backend/](https://github.com/Velimah/mediaprojekti-backend/)
+[https://github.com/catkos/AIWebBuilder-Backend](https://github.com/catkos/AIWebBuilder-Backend)
 
 **Project website**
+(Backend server has been shut off)
 
 [https://velimah.github.io/mediaprojekti/](https://velimah.github.io/mediaprojekti/)
